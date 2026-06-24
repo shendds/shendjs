@@ -47,7 +47,7 @@
     </td>
     <td width="25%" align="center" valign="center">
       <!-- Sağ taraftaki ateş görseli için yer tutucu -->
-      <img src="https://placehold.co/200x200/0d1117/ffffff?text=Flame+Img" width="120" alt="Flame" />
+      <img src="https://i.pinimg.com/736x/54/56/2f/54562f3e754376d3e2ddf38fdafc7833.jpg" width="120" alt="Flame" />
     </td>
   </tr>
 </table>
