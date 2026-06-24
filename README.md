@@ -1,99 +1,188 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Merhaba+GitHub!+👋;Ben+Can+(Shend)!;Hoş+geldiniz!+✨" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shendjs&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="shendjs" />
-</p>
-
-<br/>
-
-<!-- Animasyonlu yatay çizgi -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Hakkımda</b>
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
-
-- 🎓 Bandırma Onyedi Eylül Üniversitesi'nde öğrenciyim
-- 💻 4.5+ yıldır yazılım geliştirme ile ilgileniyorum
-- 🌱 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım
-- 🚀 Yeni teknolojileri keşfetmeyi ve uygulamayı seviyorum
-- 🌐 Web geliştirme konusunda tutkuluyum
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Teknoloji Yığınım</b>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <!-- Daha fazla teknoloji eklenebilir -->
-</p>
-
-<br/>
-
-<!-- Animasyonlu yatay çizgi -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub İstatistiklerim</b>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shendjs&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shendjs&layout=compact&theme=tokyonight&hide_border=true&locale=tr" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<br/>
-
-<!-- Katkı grafiği -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shendjs&theme=tokyonight" alt="GitHub Contribution Graph" />
-</div>
-
-<br/>
-
-<!-- Animasyonlu yatay çizgi -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Öne Çıkan Projelerim</b>
-<div align="center">
-  <a href="https://github.com/shendjs/Daemon-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shendjs&repo=Daemon-AI&theme=tokyonight&hide_border=true" alt="Daemon-AI" />
+  <p align="right">
+    <a href="#">Home</a> | <a href="#">About</a> | <a href="#">Projects</a> | <a href="#">Blog</a> | <a href="#">Contact</a>
+  </p>
+  <br>
+  
+  <img src="https://img.shields.io/badge/Available%20for%20new%20Projects-1A1A1A?style=flat-square&color=8A2BE2&labelColor=1A1A1A" alt="Available Status" />
+  
+  <h1>Hey! , I am <b>Riya</b></h1>
+  <h2>Full-Stack Developer</h2>
+  
+  <p>
+    I craft beautiful, functional digital experiences that bring ideas to life.<br>
+    Specializing in modern web development and user-centered design.
+  </p>
+  <br>
+  
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/-View%20My%20Work-8A2BE2?style=for-the-badge&color=8A2BE2">
   </a>
-</div>
-  <!-- Daha fazla proje eklenebilir -->
-</div>
-
-<br/>
-
-<!-- Animasyonlu yatay çizgi -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="25"> <b>İletişim</b>
-
-  <a href="mailto:EMAİL_ADRESİ">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shenddwa@gmail.com" />
+  &nbsp;&nbsp;
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/-Get%20In%20Touch-1A1A1A?style=for-the-badge&color=1A1A1A&logoColor=8A2BE2&border=1">
   </a>
+  <br><br><br>
 </div>
 
-<br/>
+---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> <b>Beni Destekle</b>
+## About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>I'm a passionate creative developer and designer with over 5 years of experience building digital products that users love. I believe in the power of good design and clean code to solve real problems.</p>
+      <p>When I'm not coding, you'll find me exploring new design trends, contributing to open-source projects, or sharing my knowledge through writing and speaking at conferences.</p>
+      <p>I'm always excited to work on projects that challenge me to grow and learn something new.</p>
+    </td>
+    <td width="40%" align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="150" alt="Pixel Cat"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Skills & Technologies
+
+<table>
+  <tr>
+    <td width="33%">
+      <b>Developer</b><br><br>
+      <code>HTML</code> <code>CSS</code> <code>JS</code><br>
+      <code>React</code> <code>Node</code>
+    </td>
+    <td width="33%">
+      <b>Developer</b><br><br>
+      <code>Figma</code> <code>UI/UX</code> <code>Design</code><br>
+      <code>Wireframing</code>
+    </td>
+    <td width="33%">
+      <b>Developer</b><br><br>
+      <code>Git</code> <code>GitHub</code> <code>API</code><br>
+      <code>MongoDB</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Experience
+
+<table>
+  <tr>
+    <td width="10%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-2024-8A2BE2?style=flat-square" alt="2024">
+    </td>
+    <td width="90%">
+      <b>Developer</b> <a href="#"><i>@ Lorem Ipsum</i></a><br>
+      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-2023-8A2BE2?style=flat-square" alt="2023">
+    </td>
+    <td width="90%">
+      <b>Developer</b> <a href="#"><i>@ Lorem Ipsum</i></a><br>
+      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/shendds" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shendds" />
-  </a>
+  <h2 id="projects">My Projects</h2>
+  <p>A collection of projects I've worked on, ranging from web applications to mobile apps and everything in between.</p>
 </div>
 
-<br/>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+1" width="100%"><br>
+      <b>Chat App</b><br>
+      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
+      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
+    </td>
+     <td width="33%" valign="top">
+      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+2" width="100%"><br>
+      <b>Chat App</b><br>
+      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
+      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
+    </td>
+     <td width="33%" valign="top">
+      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+3" width="100%"><br>
+      <b>Chat App</b><br>
+      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
+      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
+    </td>
+  </tr>
+  <tr>
+     <td width="33%" valign="top">
+      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+4" width="100%"><br>
+      <b>Chat App</b><br>
+      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
+      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+5" width="100%"><br>
+      <b>Chat App</b><br>
+      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
+      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
+    </td>
+     <td width="33%" valign="top">
+      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+6" width="100%"><br>
+      <b>Chat App</b><br>
+      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
+      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
+    </td>
+  </tr>
+</table>
 
-<!-- Son mesaj -->
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Profilimi+ziyaret+ettiğiniz+için+teşekkürler!" />
+  <h2 id="contact">Let's Work Together</h2>
 </div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Send me a message</h3>
+      <sub><i>(GitHub formatı interaktif formları desteklemez, buton ile direkt mail atılabilir.)</i></sub><br><br>
+      <b>Name</b><br>
+      <img src="https://placehold.co/350x30/1A1A1A/1A1A1A?text=+" width="100%"><br>
+      <b>Email</b><br>
+      <img src="https://placehold.co/350x30/1A1A1A/1A1A1A?text=+" width="100%"><br>
+      <b>Message</b><br>
+      <img src="https://placehold.co/350x80/1A1A1A/1A1A1A?text=+" width="100%"><br><br>
+      <a href="mailto:test@example.com">
+        <img src="https://img.shields.io/badge/Send%20Message-8A2BE2?style=for-the-badge&logo=minutemailer&logoColor=white" width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <p>I'm always open to discussing new opportunities, creative projects, or partnerships. Whether you have a specific project in mind or just want to explore possibilities, I'd love to connect.</p>
+      <ul>
+        <li>Web & Mobile Development</li>
+        <li>UI/UX Design</li>
+        <li>Technical Consulting</li>
+        <li>Speaking & Workshops</li>
+      </ul>
+      <br>
+      <b>My Socials</b><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-Instagram-111111?style=flat-square&logo=instagram&logoColor=8A2BE2"></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Email-111111?style=flat-square&logo=gmail&logoColor=8A2BE2"></a>
+      <a href="#"><img src="https://img.shields.io/badge/-X-111111?style=flat-square&logo=x&logoColor=8A2BE2"></a>
+      <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=8A2BE2"></a>
+      <a href="#"><img src="https://img.shields.io/badge/-YouTube-111111?style=flat-square&logo=youtube&logoColor=8A2BE2"></a>
+    </td>
+  </tr>
+</table>
