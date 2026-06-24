@@ -24,8 +24,8 @@
       <img src="https://placehold.co/200x200/0d1117/ffffff?text=Brain+Img" width="150" alt="Brain" />
     </td>
     <td width="75%" valign="top">
-      <h4>Hey there! I'm Selim Can</h4>
-      <p>I'm a 21-year-old game developer fueled by coffee and an unhealthy obsession with minimalist dark themes. By day, I'm brewing up concepts and managing my digital storefront, ShendStudio. By night, I write C# scripts in Unity to automate myself out of doing actual work.</p>
+      <h4>Hey there! I'm Shend</h4>
+      <p>I'm a 22-year-old game developer fueled by coffee and an unhealthy obsession with minimalist dark themes. By day, I'm brewing up concepts and managing my digital storefront, ShendStudio. By night, I write C# scripts in Unity to automate myself out of doing actual work.</p>
       <p>When I'm not coding, I'm usually tweaking hitboxes, testing HTML5 mechanics, or treating the level design of my upcoming Steam bullet-hell game, Overrule, like a highly stressful Fortune 500 company.</p>
     </td>
   </tr>
@@ -75,5 +75,5 @@
 
 <div align="center">
   <!-- GitHub aktivite grafiği. 'your-github-username' kısmını kendi kullanıcı adınla değiştirmelisin -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shendds&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Graph">
 </div>
