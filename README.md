@@ -21,7 +21,7 @@
   <tr>
     <td width="25%" align="center" valign="top">
       <!-- Sol taraftaki beyin görseli için yer tutucu -->
-      <img src="https://i.pinimg.com/1200x/4a/00/84/4a0084a7fec7a208f0c356bacd7a2af1.jpg" width="150" alt="Brain" />
+      <img src="https://i.pinimg.com/1200x/4a/00/84/4a0084a7fec7a208f0c356bacd7a2af1.png" width="150" alt="Brain" />
     </td>
     <td width="75%" valign="top">
       <h4>Hey there! I'm Shend</h4>
