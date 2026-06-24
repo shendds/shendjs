@@ -1,188 +1,79 @@
 <div align="center">
-  <p align="right">
-    <a href="#">Home</a> | <a href="#">About</a> | <a href="#">Projects</a> | <a href="#">Blog</a> | <a href="#">Contact</a>
-  </p>
-  <br>
-  
-  <img src="https://img.shields.io/badge/Available%20for%20new%20Projects-1A1A1A?style=flat-square&color=8A2BE2&labelColor=1A1A1A" alt="Available Status" />
-  
-  <h1>Hey! , I am <b>Riya</b></h1>
-  <h2>Full-Stack Developer</h2>
-  
-  <p>
-    I craft beautiful, functional digital experiences that bring ideas to life.<br>
-    Specializing in modern web development and user-centered design.
-  </p>
-  <br>
-  
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/-View%20My%20Work-8A2BE2?style=for-the-badge&color=8A2BE2">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/-Get%20In%20Touch-1A1A1A?style=for-the-badge&color=1A1A1A&logoColor=8A2BE2&border=1">
-  </a>
-  <br><br><br>
+  <!-- Banner Görseli: Buraya kendi Synax! benzeri banner'ının linkini koyabilirsin -->
+  <img src="https://placehold.co/1000x250/0d1117/ffffff?text=Your+Banner+Image+Here" width="100%" alt="Banner" />
 </div>
-
----
-
-## About Me
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>I'm a passionate creative developer and designer with over 5 years of experience building digital products that users love. I believe in the power of good design and clean code to solve real problems.</p>
-      <p>When I'm not coding, you'll find me exploring new design trends, contributing to open-source projects, or sharing my knowledge through writing and speaking at conferences.</p>
-      <p>I'm always excited to work on projects that challenge me to grow and learn something new.</p>
-    </td>
-    <td width="40%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="150" alt="Pixel Cat"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## Skills & Technologies
-
-<table>
-  <tr>
-    <td width="33%">
-      <b>Developer</b><br><br>
-      <code>HTML</code> <code>CSS</code> <code>JS</code><br>
-      <code>React</code> <code>Node</code>
-    </td>
-    <td width="33%">
-      <b>Developer</b><br><br>
-      <code>Figma</code> <code>UI/UX</code> <code>Design</code><br>
-      <code>Wireframing</code>
-    </td>
-    <td width="33%">
-      <b>Developer</b><br><br>
-      <code>Git</code> <code>GitHub</code> <code>API</code><br>
-      <code>MongoDB</code>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## Experience
-
-<table>
-  <tr>
-    <td width="10%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/-2024-8A2BE2?style=flat-square" alt="2024">
-    </td>
-    <td width="90%">
-      <b>Developer</b> <a href="#"><i>@ Lorem Ipsum</i></a><br>
-      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="10%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/-2023-8A2BE2?style=flat-square" alt="2023">
-    </td>
-    <td width="90%">
-      <b>Developer</b> <a href="#"><i>@ Lorem Ipsum</i></a><br>
-      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</sub>
-    </td>
-  </tr>
-</table>
 
 <br>
 
 <div align="center">
-  <h2 id="projects">My Projects</h2>
-  <p>A collection of projects I've worked on, ranging from web applications to mobile apps and everything in between.</p>
+  <img src="https://img.shields.io/badge/STARS-11-0d1117?style=for-the-badge&logo=github&logoColor=white&border=1">
+  <img src="https://img.shields.io/badge/FORKS-0-0d1117?style=for-the-badge&logo=github&logoColor=white&border=1">
+  <img src="https://img.shields.io/badge/FOLLOWERS-3-0d1117?style=for-the-badge&logo=github&logoColor=white&border=1">
 </div>
+
+<br><br>
+
+<h3 align="center">Know About Me</h3>
+
+<br>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+1" width="100%"><br>
-      <b>Chat App</b><br>
-      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
-      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
+    <td width="25%" align="center" valign="top">
+      <!-- Sol taraftaki beyin görseli için yer tutucu -->
+      <img src="https://placehold.co/200x200/0d1117/ffffff?text=Brain+Img" width="150" alt="Brain" />
     </td>
-     <td width="33%" valign="top">
-      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+2" width="100%"><br>
-      <b>Chat App</b><br>
-      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
-      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
-    </td>
-     <td width="33%" valign="top">
-      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+3" width="100%"><br>
-      <b>Chat App</b><br>
-      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
-      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
-    </td>
-  </tr>
-  <tr>
-     <td width="33%" valign="top">
-      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+4" width="100%"><br>
-      <b>Chat App</b><br>
-      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
-      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+5" width="100%"><br>
-      <b>Chat App</b><br>
-      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
-      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
-    </td>
-     <td width="33%" valign="top">
-      <img src="https://placehold.co/400x200/1a1a2e/8A2BE2?text=Pixel+Art+6" width="100%"><br>
-      <b>Chat App</b><br>
-      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</sub><br><br>
-      <code>Node</code> <code>React</code> <code>CSS</code><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/-View%20Details-8A2BE2?style=flat-square"></a>
+    <td width="75%" valign="top">
+      <h4>Hey there! I'm Selim Can</h4>
+      <p>I'm a 21-year-old game developer fueled by coffee and an unhealthy obsession with minimalist dark themes. By day, I'm brewing up concepts and managing my digital storefront, ShendStudio. By night, I write C# scripts in Unity to automate myself out of doing actual work.</p>
+      <p>When I'm not coding, I'm usually tweaking hitboxes, testing HTML5 mechanics, or treating the level design of my upcoming Steam bullet-hell game, Overrule, like a highly stressful Fortune 500 company.</p>
     </td>
   </tr>
 </table>
 
-<br>
+<br><br>
 
-<div align="center">
-  <h2 id="contact">Let's Work Together</h2>
-</div>
+<h3 align="center">Top Projects (built to avoid manual labor)</h3>
+
+<br>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Send me a message</h3>
-      <sub><i>(GitHub formatı interaktif formları desteklemez, buton ile direkt mail atılabilir.)</i></sub><br><br>
-      <b>Name</b><br>
-      <img src="https://placehold.co/350x30/1A1A1A/1A1A1A?text=+" width="100%"><br>
-      <b>Email</b><br>
-      <img src="https://placehold.co/350x30/1A1A1A/1A1A1A?text=+" width="100%"><br>
-      <b>Message</b><br>
-      <img src="https://placehold.co/350x80/1A1A1A/1A1A1A?text=+" width="100%"><br><br>
-      <a href="mailto:test@example.com">
-        <img src="https://img.shields.io/badge/Send%20Message-8A2BE2?style=for-the-badge&logo=minutemailer&logoColor=white" width="100%">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <p>I'm always open to discussing new opportunities, creative projects, or partnerships. Whether you have a specific project in mind or just want to explore possibilities, I'd love to connect.</p>
-      <ul>
-        <li>Web & Mobile Development</li>
-        <li>UI/UX Design</li>
-        <li>Technical Consulting</li>
-        <li>Speaking & Workshops</li>
-      </ul>
+    <td width="75%" valign="top">
       <br>
-      <b>My Socials</b><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/-Instagram-111111?style=flat-square&logo=instagram&logoColor=8A2BE2"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Email-111111?style=flat-square&logo=gmail&logoColor=8A2BE2"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-X-111111?style=flat-square&logo=x&logoColor=8A2BE2"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=8A2BE2"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-YouTube-111111?style=flat-square&logo=youtube&logoColor=8A2BE2"></a>
+      <b><img src="https://img.shields.io/badge/-OVERRULE-0d1117?style=flat-square&logo=steam&logoColor=white&border=1"></b> &nbsp; A dungeon-crawling bullet hell featuring a knight, because dodging chaotic projectiles is an art form.<br><br>
+      <b><img src="https://img.shields.io/badge/-PAPER_FLIGHT-0d1117?style=flat-square&logo=unity&logoColor=white&border=1"></b> &nbsp; Navigating a paper airplane through a treacherous office environment.<br><br>
+      <b><img src="https://img.shields.io/badge/-SHENDSTUDIO-0d1117?style=flat-square&logo=etsy&logoColor=white&border=1"></b> &nbsp; Managing an e-commerce platform for digital planners and HTML5 arcade game bundles.
+    </td>
+    <td width="25%" align="center" valign="center">
+      <!-- Sağ taraftaki ateş görseli için yer tutucu -->
+      <img src="https://placehold.co/200x200/0d1117/ffffff?text=Flame+Img" width="120" alt="Flame" />
     </td>
   </tr>
 </table>
+
+<br><br>
+
+<h3 align="center">Connect</h3>
+
+<div align="center">
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white&border=1"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&border=1"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white&border=1"></a>
+  <a href="#"><img src="https://img.shields.io/badge/ETSY-0d1117?style=for-the-badge&logo=etsy&logoColor=white&border=1"></a>
+</div>
+
+<br><br>
+
+> <p>Code is never finished. It only becomes slightly less terrible over time.</p>
+> <p>Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.</p>
+
+<br><br>
+
+<h3 align="center">Contribution</h3>
+
+<div align="center">
+  <!-- GitHub aktivite grafiği. 'your-github-username' kısmını kendi kullanıcı adınla değiştirmelisin -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Graph">
+</div>
